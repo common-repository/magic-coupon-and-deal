@@ -1,0 +1,14 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.main-coupon{
+    margin: 1rem;
+    position: relative;
+}
+
+.coupon-detail,.coupon-header,.coupon-content{
+    position: relative;
+    margin-bottom: 1rem;
+}

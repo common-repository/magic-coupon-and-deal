@@ -1,0 +1,14 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+
+.icon32{
+    display: block;
+}
+.icon32:after{
+    content: '\f205';
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+    font: normal 32px/1 'Genericons';
+    vertical-align: bottom;
+}*/
